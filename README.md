@@ -7,7 +7,8 @@ The program does the following:
    The program demonstrates how to store information in a structure or dictionary.
 2. There's the use of I/0 where the user enters the name of the state
 3. The program finds the index of that name. It uses the index function to find the index name entered by the user. 
-4. Use that index to report back to the user the name of the capital, the state bird, and the order the state joined the union
+4. Use that index to report back to the user the name of the capital, the state bird, and the order in which the state joined the union
 5. Below is how the program looks like:
+   
    <img width="1113" height="482" alt="image" src="https://github.com/user-attachments/assets/fd0b4944-c0d5-494c-8733-0d30250241e1" />
 
